@@ -1,3 +1,5 @@
 # Portfolio
 
-![나나](https://github.com/user-attachments/assets/7ff5076d-d6af-4288-a000-4585048eac86)
+![포폴 스택](https://github.com/user-attachments/assets/c4532bbc-cb5a-4204-8489-328599bb5773)
+
+
