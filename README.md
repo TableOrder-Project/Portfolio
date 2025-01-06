@@ -43,3 +43,4 @@ Blog     :  https://akairo.tistory.com/
 ---
 
 **1. 메인 프로젝트 시연 영상**
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/23b99716-00f7-4fea-9f13-895b51cc363f/2e8adbb4-7f73-4612-9828-07783cb232ef/image.png) ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/23b99716-00f7-4fea-9f13-895b51cc363f/d2fcb592-92fe-48ed-85ae-b6d4901d1f3e/image.png)
