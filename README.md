@@ -23,10 +23,10 @@
 
 ![image](https://github.com/user-attachments/assets/3af01c10-3a9e-4c7f-8f05-c4e9e0801026)
 
-Phone    :  + 82 010-2815-1718
+Phone : + 82 010-2815-1718
 
-Mail     :  taylor1718@naver.com
+Mail : taylor1718@naver.com
 
-Git      :  https://github.com/LEE-GEEWOO
+Git : https://github.com/LEE-GEEWOO
 
 Blog     :  https://akairo.tistory.com/
