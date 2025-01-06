@@ -31,6 +31,23 @@ Git : https://github.com/LEE-GEEWOO
 
 ---
 
+**Table of Contents**
+
+1. 메인 프로젝트 시연 영상
+2. 메인 프로젝트 소개
+3. 메인 마무리
+4. 팀 프로젝트 2 ( Git Address )
+
+---
+
+**1. 메인 프로젝트 시연 영상**
+
+![image](https://github.com/user-attachments/assets/575f2a51-0ccc-4083-9028-c3d8fe52c62a) ![image](https://github.com/user-attachments/assets/1ce6481a-0ea0-4b75-bb25-ae62fe84ddf9)
+
+### **Please Click The Link** - **https://youtu.be/WNzOF_KxjcU?si=OkWevijrlkunExjq**
+
+---
+
 # 2. 프로젝트 소개
 
 # PROJECT : **NEW ORDER**
@@ -63,19 +80,3 @@ Git : https://github.com/LEE-GEEWOO
 
 Blog     :  https://akairo.tistory.com/
 
----
-
-**Table of Contents**
-
-1. 메인 프로젝트 시연 영상
-2. 메인 프로젝트 소개
-3. 메인 마무리
-4. 팀 프로젝트 2 ( Git Address )
-
----
-
-**1. 메인 프로젝트 시연 영상**
-
-![image](https://github.com/user-attachments/assets/575f2a51-0ccc-4083-9028-c3d8fe52c62a) ![image](https://github.com/user-attachments/assets/1ce6481a-0ea0-4b75-bb25-ae62fe84ddf9)
-
-### **Please Click The Link** - **https://youtu.be/WNzOF_KxjcU?si=OkWevijrlkunExjq**
