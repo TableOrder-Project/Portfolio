@@ -25,7 +25,7 @@
 
 Phone : + 82 010-2815-1718
 
-Mail : taylor1718@naver.com
+Mail  : taylor1718@naver.com
 
 Git : https://github.com/LEE-GEEWOO
 
