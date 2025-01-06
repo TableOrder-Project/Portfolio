@@ -30,3 +30,7 @@ Mail  : taylor1718@naver.com
 Git : https://github.com/LEE-GEEWOO
 
 Blog     :  https://akairo.tistory.com/
+
+--
+
+** 1. 메인 프로젝트 시연 영상 **
