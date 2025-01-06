@@ -23,6 +23,7 @@
 
 # Table of Contents
 ![image](https://github.com/user-attachments/assets/6f78881c-1ae2-4809-9ad5-199a3de471b9)
+※ 5번부터 GIF 및 동영상이 있습니다.
 
 1. [프로젝트 시연 영상](../../wiki/프로젝트-시연-영상)
 2. [프로젝트 사용 스택](../../wiki/프로젝트-사용-스택)
