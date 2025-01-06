@@ -1,5 +1,6 @@
 # Portfolio
 
-![포폴 스택](https://github.com/user-attachments/assets/c4532bbc-cb5a-4204-8489-328599bb5773)
+![image](https://github.com/user-attachments/assets/f77dc664-028f-4069-a346-d8f308199cad)
+
 
 
