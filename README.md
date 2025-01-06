@@ -46,6 +46,4 @@ Blog     :  https://akairo.tistory.com/
 
 ![image](https://github.com/user-attachments/assets/575f2a51-0ccc-4083-9028-c3d8fe52c62a) ![image](https://github.com/user-attachments/assets/1ce6481a-0ea0-4b75-bb25-ae62fe84ddf9)
 
-### **Please Click The Link**
-
-          **https://youtu.be/WNzOF_KxjcU?si=OkWevijrlkunExjq**
+### **Please Click The Link** **https://youtu.be/WNzOF_KxjcU?si=OkWevijrlkunExjq**
