@@ -18,3 +18,7 @@
 
 2022.01 - **JLPT ( **Japanese Language Proficiency Test** )**
           N 1(급) - 자격증 기한 없음
+
+---
+
+![image](https://github.com/user-attachments/assets/7fac0c8f-b15f-471e-ac28-030961fb59e3)
