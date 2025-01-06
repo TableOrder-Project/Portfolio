@@ -32,12 +32,10 @@ Git : https://github.com/LEE-GEEWOO
 Blog     :  https://akairo.tistory.com/
 
 ---
-[프로젝트 시연 영상](../../wiki/프로젝트-시연-영상)
-
 
 **Table of Contents**
 
-1. 메인 프로젝트 시연 영상
+1. [프로젝트 시연 영상](../../wiki/프로젝트-시연-영상)
 2. 메인 프로젝트 소개
 3. 메인 마무리
 4. 팀 프로젝트 2 ( Git Address )
