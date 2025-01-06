@@ -80,13 +80,5 @@ Blog     :  https://akairo.tistory.com/
 
    (핵심 : 매장을 운영하기 위한 실시간 처리)
 
-  # 1.고객 메인화면
-
-[2.장바구니 화면](https://www.notion.so/2-1730e0755b3580d8b0fcce62e3b0c751?pvs=21)
-
-[3.사장님 화면](https://www.notion.so/3-1730e0755b35809f9f84d2173605956a?pvs=21)
-
-[4.관리자 화면](https://www.notion.so/4-1730e0755b3580ed8249e1e8ff567136?pvs=21)
-
-[5. 메뉴관리 화면](https://www.notion.so/5-1730e0755b358004aef5c257d4fe3064?pvs=21)
+  
 
