@@ -23,12 +23,13 @@
 
 # Table of Contents
 ![image](https://github.com/user-attachments/assets/6f78881c-1ae2-4809-9ad5-199a3de471b9)
-**※ 5번부터 GIF 및 동영상이 있습니다.**
 
 1. [프로젝트 시연 영상](../../wiki/프로젝트-시연-영상)
 2. [프로젝트 사용 스택](../../wiki/프로젝트-사용-스택)
 3. [화면설계/USECASE/ERD/프로젝트 구조](../../wiki/화면설계-USECASE-ERD-프로젝트-구조)
 4. [프로젝트 소개](../../wiki/프로젝트-소개)
+   
+**※ GIF 및 동영상 첨부**    
 5. [화면 설계 ‐ ADMIN 로그인 화면](../../wiki/화면-설계-‐-ADMIN-로그인-화면)
 6. [화면 설계 ‐ ADMIN 대시보드](../../wiki/화면-설계-‐-ADMIN-대시보드)
 
