@@ -38,7 +38,7 @@ Blog     :  https://akairo.tistory.com/
 1. [프로젝트 시연 영상](../../wiki/프로젝트-시연-영상)
 2. [프로젝트 소개](../../wiki/프로젝트-소개)
 3. [프로젝트 사용 스택](../../wiki/프로젝트-사용-스택)
-4. 팀 프로젝트 2 ( Git Address )
+4. [화면설계/USECASE/ERD/프로젝트 구조](../../wiki/화면설계-USECASE-ERD-프로젝트구조)
 
 ---
 
