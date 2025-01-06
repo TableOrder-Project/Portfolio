@@ -29,6 +29,8 @@ Mail  : taylor1718@naver.com
 
 Git : https://github.com/LEE-GEEWOO
 
+Blog     :  https://akairo.tistory.com/
+
 ---
 
 **Table of Contents**
@@ -40,7 +42,7 @@ Git : https://github.com/LEE-GEEWOO
 
 ---
 
-**1. 메인 프로젝트 시연 영상**
+# 1. 메인 프로젝트 시연 영상
 
 ![image](https://github.com/user-attachments/assets/575f2a51-0ccc-4083-9028-c3d8fe52c62a) ![image](https://github.com/user-attachments/assets/1ce6481a-0ea0-4b75-bb25-ae62fe84ddf9)
 
@@ -77,6 +79,4 @@ Git : https://github.com/LEE-GEEWOO
 - React・Android : 주문보기,메뉴관리 MQTT 실시간 처리
 
    (핵심 : 매장을 운영하기 위한 실시간 처리)
-
-Blog     :  https://akairo.tistory.com/
 
