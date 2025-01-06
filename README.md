@@ -32,7 +32,7 @@ Git : https://github.com/LEE-GEEWOO
 Blog     :  https://akairo.tistory.com/
 
 ---
-[Project Demo](Project-Demo)
+[프로젝트 시연 영상](Project-Demo)
 
 
 **Table of Contents**
