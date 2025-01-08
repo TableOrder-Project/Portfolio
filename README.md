@@ -22,7 +22,7 @@
 ---
 
 # Table of Contents
-![image](https://github.com/user-attachments/assets/6f78881c-1ae2-4809-9ad5-199a3de471b9)
+![태블릿 메인화면](https://github.com/user-attachments/assets/235083ed-1c62-448a-8c0c-9cc53e991e49)
 **※ 담당한 곳 ★로 표시**
 
 1. [프로젝트 시연 영상](../../wiki/프로젝트-시연-영상)
