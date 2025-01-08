@@ -43,7 +43,7 @@
 16. [화면설계 ‐ STORE 메뉴 품절 기능(Video)](../../wiki/화면설계-‐-STORE-메뉴-품절-기능) ★
 17. [화면설계 ‐ STORE 고객과 매장 결제화면(Video)](../../wiki/화면설계-‐-STORE-고객과-매장-결제화면)
 18. [화면설계 ‐ STORE 테이블 등록 및 관리(GIF,Video)](../../wiki/화면설계-‐-STORE-테이블-등록-및-관리)
-19. [프로젝트 서버 Amazon EC2 환경 구성 (Ubuntu)](../../wiki/프로젝트-서버-Amazon-EC2-환경-구성-(Ubuntu))
+19. [프로젝트 서버 Amazon EC2 환경 구성 (Ubuntu)](../../wiki/프로젝트-서버-Amazon-EC2-환경-구성-(Ubuntu)) ★
 20. [프로젝트 마무리](../../wiki/프로젝트-마무리)
 
 ---
