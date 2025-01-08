@@ -21,7 +21,7 @@
 
 ---
 
-# Table of Contents
+# Main Project
 ![태블릿 메인화면](https://github.com/user-attachments/assets/235083ed-1c62-448a-8c0c-9cc53e991e49)
 **※ 담당한 곳 ★로 표시**
 
