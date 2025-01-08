@@ -1,6 +1,6 @@
 # My Portfolio
 
-![image](https://github.com/user-attachments/assets/faf0bdd6-226f-49b6-a31c-7a9a783b37b7)
+![image](https://github.com/user-attachments/assets/7e6026e3-12b2-4e12-9f5e-e0f9d7c35897)
 
 ### - EXPERIENCE -
 
