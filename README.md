@@ -50,7 +50,7 @@
 
 # First Project (JSP)
 
-![image](https://github.com/user-attachments/assets/33a47553-32a1-40e4-b3b0-fa48232cf58c)
+![363091449-8515c28b-318e-4140-b58a-4738e9afc4c2](https://github.com/user-attachments/assets/691cdfdb-34ee-49d2-a64d-848ca0625383)
 
 # - Please Click The Link -
 https://github.com/LEE-GEEWOO/First-Project
